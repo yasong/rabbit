@@ -1,3 +1,3 @@
 # rabbit
-**R**everse and **a**nalyze the **b**inary for **b**ugs **i**den**t**ification (**Rabbit**)
+***R***everse and ***a***nalyze the ***b***inary for ***b***ugs ***i***den***t***ification (***Rabbit***)
 
